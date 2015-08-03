@@ -1,0 +1,77 @@
+.cloud-tag-list{
+  padding-left: 0;
+  margin-left: -5px;
+  list-style: none;
+  background-color: transparent;
+}
+
+.cloud-tag-list-item {
+	display: inline-block;
+	padding: 5px;
+	border: 1px;
+	border-style: solid;
+	border-radius: 3px;
+	margin-top: 5px;
+	background-color: transparent;
+}
+.cloud-tag-list-item-default{
+	border-color: #eee;
+}
+.cloud-tag-list-item-default a{
+	color: #777;
+}
+.cloud-tag-list-item-primary{
+	border-color: #428bca;
+	color: #428bca;
+}
+.cloud-tag-list-item-primary .badge{
+	background-color: #428bca;
+}
+
+.cloud-tag-list-item-primary a{
+	color: #428bca;
+}
+
+.cloud-tag-list-item-success{
+	border-color: #5cb85c;
+	color: #5cb85c;
+}
+.cloud-tag-list-item-success .badge{
+	background-color: #5cb85c;
+}
+.cloud-tag-list-item-success a{
+	color: #5cb85c;
+}
+
+.cloud-tag-list-item-info{
+	border-color: #5bc0de;
+	color: #5bc0de;
+}
+.cloud-tag-list-item-info .badge{
+	background-color: #5bc0de;
+}
+.cloud-tag-list-item-info a{
+	color: #5bc0de;
+}
+
+.cloud-tag-list-item-danger{
+	border-color: #d9534f;
+	color: #d9534f;
+}
+.cloud-tag-list-item-danger .badge{
+	background-color: #d9534f;
+}
+.cloud-tag-list-item-danger a{
+	color: #d9534f;
+}
+
+.cloud-tag-list-item-warning{
+	border-color: #f0ad4e;
+	color: #f0ad4e;
+}
+.cloud-tag-list-item-warning .badge{
+	background-color: #f0ad4e;
+}
+.cloud-tag-list-item-warning a{
+	color: #f0ad4e;
+}
