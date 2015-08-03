@@ -6,11 +6,10 @@
 	text-align: left;
 }
  
-.icon-round-social-evernote {
-	background-position: -0px -0px; width: 80px; height: 80px; }
+.icon-round-social-evernote { background-position: -0px -0px; width: 80px; height: 80px; }
 .icon-round-social-facebook { background-position: -80px -0px; width: 80px; height: 80px; }
-.icon-round-social-foursquare { background-position: -160px -0px; width: 80px; height: 80px; }
-.icon-round-social-github { background-position: -0px -80px; width: 80px; height: 80px; }
+.icon-round-social-foursquare{ background-position: -160px -0px; width: 80px; height: 80px; }
+.icon-round-social-github{ background-position: -0px -80px; width: 80px; height: 80px; }
 .icon-round-social-googleplus { background-position: -80px -80px; width: 80px; height: 80px; }
 .icon-round-social-instagram { background-position: -160px -80px; width: 80px; height: 80px; }
 .icon-round-social-linkedin { background-position: -0px -160px; width: 80px; height: 80px; }
