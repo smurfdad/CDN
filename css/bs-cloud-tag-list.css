@@ -78,7 +78,7 @@
 .cloud-tag-list-item-danger .badge{
 	background-color: #d9534f;
 }
-.cloud-tag-list-item-danger :hover{
+.cloud-tag-list-item-danger:hover{
 	background-color: #d9534f;
 }
 .cloud-tag-list-item-danger a{
@@ -92,7 +92,7 @@
 .cloud-tag-list-item-warning .badge{
 	background-color: #f0ad4e;
 }
-.cloud-tag-list-item-warning :hover{
+.cloud-tag-list-item-warning:hover{
 	background-color: #f0ad4e;
 }
 .cloud-tag-list-item-warning a{
